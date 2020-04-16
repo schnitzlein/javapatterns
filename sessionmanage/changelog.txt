@@ -1,0 +1,7 @@
+it works somehow ...
+
+
+the session in terminal and in gui is working
+
+missing is the connection to persistent datastorage like Database (NoSQL, SQL, in-memory) 
+or a text dump or json, yaml, xml, ini something

@@ -1,0 +1,6 @@
+TODO:
+
+the pricing is often wrong (obserable and selected list price must be syned and checked)
+the complex buying list ends after one complex product ... must be infinit or at least for 10 products
+
+...

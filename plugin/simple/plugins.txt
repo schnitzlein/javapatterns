@@ -1,0 +1,2 @@
+org.btu.sst.swt.plugins.schwachr.Plugin1
+org.btu.sst.swt.plugins.schwachr.Plugin2
